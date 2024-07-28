@@ -1,0 +1,6 @@
+export const INITIAL_COUNTER_VALUE = 0;
+export const COUNTER_STATUS = {
+  STOPPED: 'STOPPED',
+  RUNNING: 'RUNNING',
+  PAUSED: 'PAUSED',
+};
